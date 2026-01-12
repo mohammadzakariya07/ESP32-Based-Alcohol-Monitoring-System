@@ -63,23 +63,8 @@ This project is suitable for **vehicle safety**, **industrial monitoring**, and 
 
 ---
 
-## 🛠 Skills Demonstrated
-- Embedded Systems Programming  
-- ESP32 ADC & GPIO Handling  
-- Sensor Interfacing  
-- Relay Control Logic  
-- I2C Communication  
-- OLED Display Integration  
 
----
-
-## 📸 Project Images
-(Add circuit diagram and hardware setup images inside the Images folder)
-
----
-
-## 📄 License
-This project is licensed under the **MIT License**.
+.
 
 ---
 
