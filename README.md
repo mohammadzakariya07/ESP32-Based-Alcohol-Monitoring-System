@@ -61,10 +61,6 @@ This project is suitable for **vehicle safety**, **industrial monitoring**, and 
 - Industrial alcohol monitoring  
 - Embedded safety systems  
 
----
-
-
-.
 
 ---
 
